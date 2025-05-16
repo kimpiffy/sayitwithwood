@@ -9,7 +9,7 @@
 | 23rd April   | 14:00 – 15:30     | 1.5   | Meeting / Navigation Brainstorming with Toby                                                       |
 | 23rd April   | 16:00 – 20:00     | 3     | Update navigation structure on template with focus on Products categories                          |
 | 15th May   | 12:00 - 14:00    | 2    | Competitor analysis conducted with sites appearing above sayitwithwood.co.uk in Google Search.                        |
-| 16th May   | 11:10 - 12:45    | 1.58   | Compile all findings, complete full audit doc.               |
+| 16th May   | 11:10 - 12:45    | 2.58   | Compile all findings, complete full audit doc.               |
 
 
 **Total: `16.6 hours`**
